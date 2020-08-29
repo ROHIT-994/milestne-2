@@ -1,2 +1,2 @@
 # milestne-2
-my mile stone2 of WTN program.
+my mile stone2 practice of WTN program.
